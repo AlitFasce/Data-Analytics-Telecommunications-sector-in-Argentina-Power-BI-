@@ -28,10 +28,10 @@ Se presentan los siguientes entregables:
 
 - INFORME EDA _ ver archivo EDA en jupiter notebook _ y el [Informe EDA](https://www.notion.so/Informe-EDA-dc75824217004067875133807228d7ae)
 
-- Dashboard _ ver archivo Power Bi
+- Dashboard _ ver archivo Power Bi _ KPI y ¿Por qué cada uno? [Estrategia y KPI](https://www.notion.so/Estrategia-y-definici-n-de-KPI-f7616919afa64d0bbc0e8dbb51cfe51a)
 
 - Se reliza una presentación por zoom 
--
+
 
 ## *Herramientas utilizadas y documentacion*
 
@@ -57,7 +57,7 @@ Se presentan los siguientes entregables:
 
 - DATOS.GOB.AR - https://datos.gob.ar/dataset/sspm-tipos-cambio-historicos/archivo/sspm_175.1
 
-- ANATEL (Equivalente a ENACOM de Brasil) - http://www.anatel.gov.br/Portal/exibirPortalInternet.do
+- ANATEL (Equivalente a ENACOM de Brasil) - https://www.gov.br/anatel/pt-br/
 
 ## *Informes e información de contexto*
 
@@ -67,7 +67,9 @@ Se presentan los siguientes entregables:
 
 - Noticias - https://www.ambito.com/sociedad/internet/la-argentina-es-el-pais-mayor-acceso-latinoamerica-n5355331
 
+- IFT México - https://www.ift.org.mx/sites/default/files/contenidogeneral/estadisticas/analisisexploratorioiot.pdf
 
+- Enrique Carrier - https://comentarios.info/index.php/2022/12/30/imaginando-el-2023/
 
 
 
