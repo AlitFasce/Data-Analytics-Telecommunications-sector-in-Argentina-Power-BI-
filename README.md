@@ -30,7 +30,7 @@ Se presentan los siguientes entregables:
 
 - Dashboard _ ver archivo Power Bi _ KPI y ¿Por qué cada uno? [Estrategia y KPI](https://www.notion.so/Estrategia-y-definici-n-de-KPI-f7616919afa64d0bbc0e8dbb51cfe51a)
 
-- Se reliza una presentación por zoom 
+- Se reliza una presentación por google meet
 
 (el mail habilitado en Notion es el de alumnos de soyhenry de todos modos se incluye una copia en este repo)
 
