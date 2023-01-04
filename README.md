@@ -32,6 +32,7 @@ Se presentan los siguientes entregables:
 
 - Se reliza una presentación por zoom 
 
+* el mail habilitado en Notion es el de alumnos de soyhenry de todos modos se incluye una copia en el repo
 
 ## *Herramientas utilizadas y documentacion*
 
