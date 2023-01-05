@@ -72,6 +72,8 @@ Se presentan los siguientes entregables:
 
 - Enrique Carrier - https://comentarios.info/index.php/2022/12/30/imaginando-el-2023/
 
+- Statista - https://es.statista.com/estadisticas/1073677/usuarios-internet-pais-america-latina/
+
 
 
 
